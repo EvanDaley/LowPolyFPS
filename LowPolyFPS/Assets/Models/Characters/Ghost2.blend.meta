@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 7ca92d7485f12154e92c177993b1af58
-timeCreated: 1499224539
+guid: 8981957e686c0a441aceb6a795677907
+timeCreated: 1499477697
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -55,23 +55,24 @@ ModelImporter:
     100094: palm_03_R
     100096: palm_04_L
     100098: palm_04_R
-    100100: shin_L
-    100102: shin_R
-    100104: shoulder_L
-    100106: shoulder_R
-    100108: spine
-    100110: thigh_L
-    100112: thigh_R
-    100114: thumb_01_L
-    100116: thumb_01_R
-    100118: thumb_02_L
-    100120: thumb_02_R
-    100122: thumb_03_L
-    100124: thumb_03_R
-    100126: toe_L
-    100128: toe_R
-    100130: upper_arm_L
-    100132: upper_arm_R
+    100100: Plane
+    100102: shin_L
+    100104: shin_R
+    100106: shoulder_L
+    100108: shoulder_R
+    100110: spine
+    100112: thigh_L
+    100114: thigh_R
+    100116: thumb_01_L
+    100118: thumb_01_R
+    100120: thumb_02_L
+    100122: thumb_02_R
+    100124: thumb_03_L
+    100126: thumb_03_R
+    100128: toe_L
+    100130: toe_R
+    100132: upper_arm_L
+    100134: upper_arm_R
     400000: chest
     400002: Cube
     400004: Cube_001
@@ -122,29 +123,33 @@ ModelImporter:
     400094: palm_03_R
     400096: palm_04_L
     400098: palm_04_R
-    400100: shin_L
-    400102: shin_R
-    400104: shoulder_L
-    400106: shoulder_R
-    400108: spine
-    400110: thigh_L
-    400112: thigh_R
-    400114: thumb_01_L
-    400116: thumb_01_R
-    400118: thumb_02_L
-    400120: thumb_02_R
-    400122: thumb_03_L
-    400124: thumb_03_R
-    400126: toe_L
-    400128: toe_R
-    400130: upper_arm_L
-    400132: upper_arm_R
+    400100: Plane
+    400102: shin_L
+    400104: shin_R
+    400106: shoulder_L
+    400108: shoulder_R
+    400110: spine
+    400112: thigh_L
+    400114: thigh_R
+    400116: thumb_01_L
+    400118: thumb_01_R
+    400120: thumb_02_L
+    400122: thumb_02_R
+    400124: thumb_03_L
+    400126: thumb_03_R
+    400128: toe_L
+    400130: toe_R
+    400132: upper_arm_L
+    400134: upper_arm_R
     2300000: Cube
     2300002: Cube_001
+    2300004: Plane
     3300000: Cube
     3300002: Cube_001
-    4300000: Cube_001
-    4300002: Cube
+    3300004: Plane
+    4300000: Plane
+    4300002: Cube_001
+    4300004: Cube
     7400000: Default Take
     9500000: //RootNode
   materials:
